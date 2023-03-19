@@ -14,6 +14,7 @@
 		1800B2F829C67DB8008B37E1 /* BooneAssignment1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1800B2F729C67DB8008B37E1 /* BooneAssignment1Tests.swift */; };
 		1800B30229C67DB8008B37E1 /* BooneAssignment1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1800B30129C67DB8008B37E1 /* BooneAssignment1UITests.swift */; };
 		1800B30429C67DB8008B37E1 /* BooneAssignment1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1800B30329C67DB8008B37E1 /* BooneAssignment1UITestsLaunchTests.swift */; };
+		1800B31129C68F73008B37E1 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1800B31029C68F73008B37E1 /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		1800B2FD29C67DB8008B37E1 /* BooneAssignment1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BooneAssignment1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1800B30129C67DB8008B37E1 /* BooneAssignment1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooneAssignment1UITests.swift; sourceTree = "<group>"; };
 		1800B30329C67DB8008B37E1 /* BooneAssignment1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooneAssignment1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1800B31029C68F73008B37E1 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				1800B2E529C67DB7008B37E1 /* BooneAssignment1App.swift */,
+				1800B31029C68F73008B37E1 /* Storyboard.storyboard */,
 				1800B2E729C67DB7008B37E1 /* ContentView.swift */,
 				1800B2E929C67DB8008B37E1 /* Assets.xcassets */,
 				1800B2EB29C67DB8008B37E1 /* BooneAssignment1.entitlements */,
@@ -235,6 +238,7 @@
 			files = (
 				1800B2EE29C67DB8008B37E1 /* Preview Assets.xcassets in Resources */,
 				1800B2EA29C67DB8008B37E1 /* Assets.xcassets in Resources */,
+				1800B31129C68F73008B37E1 /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
